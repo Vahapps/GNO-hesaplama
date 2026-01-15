@@ -21,7 +21,8 @@ for (int i = 0; i < ders_sayısı; i++)
     toplam_kredi += kredi;
     
 }
-double ortalama = kredisi_hesaplanmış_puan.Sum() / toplam_kredi;
+double ortalama = (double)kredisi_hesaplanmış_puan.Sum() / toplam_kredi;
 double GNO_puanı = ortalama / 25;
 Console.WriteLine("GNO'nuz = " + GNO_puanı);
 Console.ReadKey();
+
