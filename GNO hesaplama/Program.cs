@@ -1,7 +1,7 @@
 Console.Write("ders sayınısı girin =");
 int ders_sayısı = int.Parse(Console.ReadLine());
 Console.Clear();
-int[] kredisi_hesaplanmış_puan = new int[ders_sayısı];
+double[] kredisi_hesaplanmış_puan = new int[ders_sayısı];
 int toplam_kredi = 0;
 for (int i = 0; i < ders_sayısı; i++)
 {
@@ -25,5 +25,6 @@ double ortalama = (double)kredisi_hesaplanmış_puan.Sum() / toplam_kredi;
 double GNO_puanı = ortalama / 25;
 Console.WriteLine("GNO'nuz = " + GNO_puanı);
 Console.ReadKey();
+
 
 
