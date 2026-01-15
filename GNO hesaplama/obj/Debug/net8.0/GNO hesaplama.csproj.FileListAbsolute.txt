@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\bin\Debug\net8.0\GNO hesaplama.exe
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\bin\Debug\net8.0\GNO hesaplama.deps.json
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\bin\Debug\net8.0\GNO hesaplama.runtimeconfig.json
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\bin\Debug\net8.0\GNO hesaplama.dll
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\bin\Debug\net8.0\GNO hesaplama.pdb
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.AssemblyInfo.cs
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.dll
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\refint\GNO hesaplama.dll
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.pdb
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\GNO hesaplama.genruntimeconfig.cache
+C:\Users\User\source\repos\SİLİNECEK\GNO hesaplama\obj\Debug\net8.0\ref\GNO hesaplama.dll
